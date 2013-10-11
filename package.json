@@ -1,6 +1,6 @@
 {
   "name": "arp-parse",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A streaming, cross-platform ARP table parser.",
   "main": "index.js",
   "directories": {
