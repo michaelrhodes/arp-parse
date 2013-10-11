@@ -1,0 +1,4 @@
+? (192.168.0.1) at 0:22:3f:54:10:d0 on en1 ifscope [ethernet]
+? (192.168.0.2) at 78:54:2e:22:6a:1a on en1 ifscope [ethernet]
+? (192.168.0.14) at 8:3e:8e:af:f:d5 on en1 ifscope [ethernet]
+? (2001:0db8:85a3:0042:1000:8a2e:0370:7334) at 1:23:45:67:89:ab on en1 ifscope [ethernet]
